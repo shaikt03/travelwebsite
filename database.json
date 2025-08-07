@@ -1,0 +1,125 @@
+{
+  "services": [
+    {
+      "id": "173f",
+      "name": "Flight Booking",
+      "description": "Easily search, compare, and book flights to destinations around the world at competitive prices."
+    },
+    {
+      "id": "88f6",
+      "name": "Hotel Reservations",
+      "description": "Choose from a wide range of hotels, resorts, and homestays with user reviews and best price guarantees."
+    },
+    {
+      "id": "0470",
+      "name": "Visa Assistance",
+      "description": "Get expert help with travel visa applications, documentation, and appointment bookings."
+    },
+    {
+      "id": "ea75",
+      "name": "Custom Itinerary Planning",
+      "description": "Build a personalized travel plan based on your preferences, interests, and budget."
+    },
+    {
+      "id": "22a4",
+      "name": "Group Travel & Corporate Tours",
+      "description": "Specialized services for group tours, school trips, and corporate travel events with tailored arrangements."
+    },
+    {
+      "id": "0bd7",
+      "name": "Car Rentals",
+      "description": "Rent cars with flexible pickup and drop-off options for local or international travel."
+    },
+    {
+      "id": "5954",
+      "name": "Tour Guide Services",
+      "description": "Professional local guides to enhance your travel experience with insider knowledge and historical insights."
+    },
+    {
+      "id": "7453",
+      "name": "Custom Itinerary Planning",
+      "description": "Build a personalized travel plan based on your preferences, interests, and budget."
+    },
+    {
+      "id": "958c",
+      "name": "Visa Assistance",
+      "description": "Get expert help with travel visa applications, documentation, and appointment bookings."
+    }
+  ],
+  "packages": [
+    {
+      "name": "Dubai Highlights Package",
+      "destination": "Dubai, UAE",
+      "duration": "5 Days / 4 Nights",
+      "price": "₹39,999 per person",
+      "description": "Discover the glamour of Dubai with a city tour, Desert Safari, Dhow Cruise, and Burj Khalifa access. Package includes flights, 3-star hotel stay, and airport transfers.",
+      "id": "58ee"
+    },
+    {
+      "name": "Europe Delights",
+      "destination": "France, Switzerland, Italy",
+      "duration": "10 Days / 9 Nights",
+      "price": "₹1,79,999 per person",
+      "description": "Explore Europe's iconic landmarks and cultures. Visit Paris, Lucerne, and Rome with guided city tours, hotel stays, intercity travel, and visa assistance.",
+      "id": "8019"
+    },
+    {
+      "name": "Spiritual Varanasi Tour",
+      "destination": "Varanasi, India",
+      "duration": "3 Days / 2 Nights",
+      "price": "₹6,499 per person",
+      "description": "A spiritual retreat to the holy city. Attend the Ganga Aarti, visit Kashi Vishwanath Temple, and soak in the cultural heritage. Includes hotel, breakfast, and sightseeing.",
+      "id": "b940"
+    },
+    {
+      "id": "f80b",
+      "name": "Andaman Island Escape",
+      "description": "Relax on tropical beaches and explore coral reefs. Package includes hotel accommodation, breakfast, ferry transfers, and sightseeing at Radhanagar Beach and Cellular Jail.1234",
+      "destination": "Port Blair & Havelock, India",
+      "price": "₹18,999 per person",
+      "duration": "5 Days / 4 Nights"
+    },
+    {
+      "id": "a996",
+      "name": "Himalayan Bliss",
+      "destination": "Nepal (Kathmandu, Pokhara)",
+      "duration": "7 Days / 6 Nights",
+      "price": "$720",
+      "description": "A spiritual and scenic adventure with mountain views, temples, and cultural heritage."
+    },
+    {
+      "id": "9ef4",
+      "name": "South African Safari",
+      "destination": "Kruger National Park, Cape Town",
+      "duration": "10 Days / 9 Nights",
+      "price": "$2,800",
+      "description": "Witness the Big Five, taste local wine, and visit Table Mountain and coastal Cape Town."
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "0d11",
+      "name": "talib",
+      "course": "ui developer",
+      "status": "ongoing on"
+    },
+    {
+      "id": "1594",
+      "name": "talib",
+      "course": "ui developer",
+      "status": "516516514"
+    },
+    {
+      "id": "28aa",
+      "name": "talib",
+      "course": "ui developer 123",
+      "status": "on"
+    },
+    {
+      "id": "a05e",
+      "name": "sdfgs",
+      "course": "ui developer",
+      "status": "ongoing on"
+    }
+  ]
+}

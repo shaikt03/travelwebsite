@@ -1,0 +1,45 @@
+.main{
+    animation-name:zoomIn;
+    animation-duration: 1s;  
+    animation-iteration-count:infinite;
+}
+.navbar{
+    background-color: #68b5d1e0;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    background-color: #68b5d1e0;
+     
+
+}
+form p{
+    color: red;
+    padding: 0 10px;
+}
+
+aside{
+    text-align: center;
+    padding: 50px 30px;
+    border-right: 1px solid lightgray; 
+}
+aside button{
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: 0.5s;
+    
+}
+aside button:hover{
+     
+    background-color:rgb(66, 32, 32);
+    color: white;
+}
+.container{
+    padding: 50px!important;
+
+}
