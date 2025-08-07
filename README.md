@@ -20,7 +20,6 @@ From booking flights and hotels to mapping out itineraries and tracking expenses
 
 1. **Trip Planning**: Create and customize itineraries, including flights, hotels, and activities.
 2. **Expense Tracking**: Monitor and manage expenses, including transactions, receipts, and budgets.
-3. **Flight Search**: Search and book flights from a vast database of airlines and routes.
 4. **Hotel Booking**: Reserve and manage hotel reservations, including rooms, rates, and amenities.
 5. **Activity Scheduling**: Plan and schedule activities, including tours, events, and experiences.
 6. **Real-time Updates**: Receive real-time updates on flight delays, cancellations, and changes.
@@ -75,7 +74,7 @@ README.md
 
 **Build**
 
-* Run the build script using npm: `npm run build`
+* Run the build script using npm: `npm start`
 
 **Deploy**
 
