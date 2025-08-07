@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# travelwebsite
+A responsive travel website showcasing destinations, tour packages, and booking options. Built using HTML, CSS, and JavaScript with a modern, user-friendly interface. Features include smooth scrolling, service sections, and mobile-friendly design.
+>>>>>>> 3997974b0cf4425315e9dcf1b409e4be23dd8385
